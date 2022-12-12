@@ -1,0 +1,6 @@
+ls | wc -l
+sleep 5
+ls -l > log.txt
+sleep 5
+ls -l dir >> log.txt
+sleep 5

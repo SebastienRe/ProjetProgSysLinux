@@ -1,0 +1,18 @@
+total 80
+-rw-rw-r-- 1 seb seb    34 déc.  12 01:12 cmd2.txt
+-rw-rw-r-- 1 seb seb    71 déc.  12 02:24 cmd.txt
+drwxrwxr-x 2 seb seb  4096 déc.   8 10:35 dir
+-rw-rw-r-- 1 seb seb   390 déc.  12 01:13 lib.c
+-rwxrwxr-x 1 seb seb     0 déc.  12 11:17 log.txt
+-rwxrwxr-x 1 seb seb 22056 déc.  12 11:17 main
+-rw-rw-r-- 1 seb seb   431 déc.  12 02:06 main.c
+-rw-rw-r-- 1 seb seb   416 déc.   8 10:32 Q1.c
+-rw-rw-r-- 1 seb seb   688 déc.   8 10:36 Q2.c
+-rw-rw-r-- 1 seb seb  1297 déc.   8 10:30 Q3.c
+-rw-rw-r-- 1 seb seb  2025 déc.   8 11:19 Q4.c
+-rw-rw-r-- 1 seb seb  4298 déc.  12 01:42 Q5and6.c
+-rw-rw-r-- 1 seb seb 10183 déc.  12 11:17 Q7.c
+total 0
+-rw-rw-r-- 1 seb seb 0 déc.   8 10:35 ahah
+-rw-rw-r-- 1 seb seb 0 nov.  16 10:16 dautrestrucs
+-rw-rw-r-- 1 seb seb 0 nov.  16 10:16 destrucs
