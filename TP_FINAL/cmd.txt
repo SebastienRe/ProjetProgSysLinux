@@ -1,0 +1,15 @@
+SEQ
+    ./Aff *salue_le_public* 1
+    PAR
+        SEQ
+            ./Aff *se_positionne* 1
+            PAR
+                ./Aff *ferme_les_yeux* 3
+                ./Aff *jongle* 3
+            ENDPAR
+            ./Aff *salto_arriere* 1
+        ENDSEQ
+        ./Aff chante 4
+    ENDPAR
+    ./Aff *remercie_le_public* 1
+ENDSEQ
