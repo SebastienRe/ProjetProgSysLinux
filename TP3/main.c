@@ -20,7 +20,7 @@ int main(int argc, char **argv){
     miniBash();
     #endif
     #ifdef Q7
-    ExecFileBatchLimite("cmd.txt", "1");
+    ExecFileBatchLimite(argv[1], argv[2]);
     #endif
     
     return 0;

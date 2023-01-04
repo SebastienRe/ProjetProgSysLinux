@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <fcntl.h>
+#include <signal.h>
 /*Si dans la ligne de commande on entoure obligatoirement d’un espace les signes <, >, >>, la
 fonction Ligne2Argv du TP1 va découper correctement la commande en mettant le caractère
 dans un des arguments, et le nom du fichier associé dans le suivant. En tenant compte de cette

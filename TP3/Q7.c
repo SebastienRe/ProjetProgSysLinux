@@ -159,7 +159,7 @@ ENRCOMM* File2TabCom(char* fileName, int * nbCommandExcecuted){// retourne un ta
 //affiche la structure
 void afficheCom(ENRCOMM com){
     AfficheArgv(com.argv);
-    printf(": %d %d %ld %ld %ld\n",com.pid, com.retour, com.debut, com.fin, com.fin - com.debut);
+    printf(": %d %d %d %ld %ld %ld\n",com.statut,com.pid, com.retour, com.debut, com.fin, com.fin - com.debut);
 }
 
 /* contient en argument le nom du fichier contenant des commandes,
