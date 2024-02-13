@@ -162,6 +162,7 @@ char *** File2TabArgv(char* fileName){//transforme un fichier en tableau de comm
 }
 
 NOEUD* construireArbre(char *** tabCmd){
+    printf("%s\n")
     int i = 0;
     NOEUD* noeudCourant = (NOEUD*)malloc(sizeof(NOEUD));
 

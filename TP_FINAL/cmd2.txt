@@ -1,0 +1,13 @@
+SEQ
+    date
+    PAR
+        date
+        SEQ
+            sleep 1
+            date
+            sleep 1
+        ENDSEQ
+        sleep 1
+    ENDPAR
+    date
+ENDSEQ

@@ -1,4 +1,4 @@
-#define Q7
+#define Q5and6
 
 #include "lib.c"
 
